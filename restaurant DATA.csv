@@ -1,0 +1,101 @@
+restaurant_id,city_id,restaurant_name,cuisine_type,address,average_rating,opening_hours,delivery_time
+2001,101, Tasty Bites          , Indian            ," 123 Main Street, New Delhi  ",4.5, 10:00 AM  -  12:00 PM ,0:30:00
+2002,101, Spice Haven          , Chinese           ," 456 Park Road, New Delhi    ",4.2, 10:30 AM  -  11:00 PM ,0:45:00
+2003,102, Seafood Sensations   , Seafood           ," 789 Beach View, Mumbai     ",4.4, 10:00 PM  -  1:00 PM ,0:40:00
+2004,102, Pizza Palace         , Italian           ," 101 Pizza Street, Mumbai   ",4.6, 11:00 AM  -  12:00 AM ,0:35:00
+2005,103, Curry Express        , Indian            ," 222 Spices Lane, Bangalore ",4.3, 10:30 AM  -  12:30 PM ,0:35:00
+2006,103, Sushi Delight        , Japanese          ," 333 Sushi Road, Bangalore  ",3.2, 10:00 PM  -  11:00 PM ,0:45:00
+2007,104, Kolkata Spice        , Bengali            ," 444 Flavor Street, Kolkata ",4.7, 11:00 AM  -  12:30 PM ,0:40:00
+2008,104, Pizza Haven          , Italian           ," 555 Pizzeria Road, Kolkata ",4.5, 10:30 AM  -  1:00 PM ,0:35:00
+2009,105, Hyderabadi Delights  , Hyderabadi        ," 666 Biryani Lane, Hyderabad",4.6, 10:30 AM  -  1:00 PM ,0:45:00
+2010,105, BBQ Junction         , Barbecue           ," 777 Grill Street, Hyderabad",4.2, 10:00 PM  -  11:00 PM ,0:40:00
+2011,106, South Indian Spices  , South Indian      ," 888 Dosa Road, Chennai     ",4.3, 10:00 AM  -  12:00 PM ,0:35:00
+2012,106, Thai Paradise        , Thai               ," 999 Thai Street, Chennai   ",4.5, 11:00 AM  -  11:00 PM ,0:45:00
+2013,107, Pune Delights        , Indian            ," 123 Pune Road, Pune        ",4.4, 10:30 AM  -  1:00 PM ,0:40:00
+2014,107, Pasta Perfection     , Italian           ," 456 Pasta Lane, Pune       ",4.1, 10:30 AM  -  1:00 PM ,0:35:00
+2015,108, Gujarati Essence     , Gujarati          ," 789 Gujarat View, Ahmedabad",4.3, 10:00 AM  -  12:00 PM ,0:35:00
+2016,108, Mughlai Master       , Mughlai           ," 101 Mughlai Street, Ahmedabad",4.5, 10:30 AM  -  11:00 PM ,0:45:00
+2017,109, Jaipur Spice         , Rajasthani        ," 222 Rajasthani Road, Jaipur",4.4, 10:00 PM  -  12:30 PM ,0:40:00
+2018,109, Tandoori Treat       , North Indian      ," 333 Tandoori Lane, Jaipur  ",4.7, 10:30 AM  -  1:00 PM ,0:35:00
+2019,110, Chandigarh Flavors   , Punjabi            ," 444 Punjabi Street, Chandigarh",4.5, 11:00 AM  -  12:00 PM ,0:30:00
+2020,110, Burger Bliss         , Fast Food         ," 555 Burger Road, Chandigarh",4, 11:00 AM  -  12:00 PM ,0:30:00
+2021,111, Gurgaon Grub         , North Indian      ," 123 Gurgaon Road, Gurugram ",3, 10:00 AM  -  12:00 PM ,0:30:00
+2022,111, Sizzler Stop         , Continental       ," 456 Sizzler Lane, Gurugram ",4.4, 10:30 AM  -  11:00 PM ,0:45:00
+2023,112, Noida Nibbles        , Fast Food         ," 789 Fast Lane, Noida       ",4.6, 10:00 PM  -  12:00 AM ,0:40:00
+2024,112, Dosa Delights        , South Indian      ," 101 Dosa Street, Noida     ",4.3, 11:00 AM  -  12:00 AM ,0:35:00
+2025,113, Pune Spice            , Maharashtrian      ," 222 Maharashtrian Road, Pune ",4.7, 10:30 AM  -  1:00 PM ,0:45:00
+2026,113, Biryani Bazaar       , Biryani           ," 333 Biryani Lane, Pune     ",4.5, 10:00 PM  -  11:00 PM ,0:40:00
+2027,114, Lucknow Delicacies   , Awadhi            ," 444 Lucknow Road, Lucknow  ",4.4, 10:30 AM  -  12:30 PM ,0:35:00
+2028,114, Pizza Paradiso       , Italian           ," 555 Pizza Street, Lucknow  ",4.6, 11:00 AM  -  1:00 PM ,0:30:00
+2029,115, Kochi Kitchens       , Kerala            ," 666 Kerala View, Kochi     ",4, 10:00 AM  -  12:00 PM ,0:35:00
+2030,115, Seafood Sensations   , Seafood           ," 777 Seafood Lane, Kochi   ",4.5, 10:30 AM  -  1:00 PM ,0:45:00
+2031,116, Goa Treats           , Goan              ," 888 Goan Street, Goa       ",4.4, 10:00 PM  -  12:00 AM ,0:40:00
+2032,116, Burger Beach         , Fast Food         ," 999 Burger Road, Goa      ",3.8, 11:00 AM  -  11:00 PM ,0:35:00
+2033,117, Amritsari Naan       , Punjabi           ," 123 Jaipur Road, Jaipur   ",4.6, 10:30 AM  -  1:00 PM ,0:30:00
+2034,117, Thali Tales          , North Indian      ," 234 Thali Lane, Jaipur     ",4.5, 10:00 AM  -  12:00 PM ,0:35:00
+2035,118, Vadodara Delights    , Gujarati          ," 345 Vadodara Road, Vadodara",4.3, 10:30 AM  -  1:00 PM ,0:40:00
+2036,118, Mughlai Magic        , Mughlai           ," 456 Mughlai Street, Vadodara",4.5, 10:00 PM  -  12:00 AM ,0:45:00
+2037,119,NoodleNest        ,Chinese," 567 Bhopal Road, Bhopal   ",4.4, 10:00 AM  -  12:00 PM ,0:30:00
+2038,119, Pasta Paradise       , Italian           ," 678 Pasta Lane, Bhopal    ",4.6, 10:30 AM  -  1:00 PM ,0:35:00
+2039,120, Indore Spice         , Indori            ," 789 Indori View, Indore   ",4.7, 10:30 AM  -  12:30 PM ,0:40:00
+2040,120, Tandoori Treats      , North Indian      ," 890 Tandoori Road, Indore ",4.5, 11:00 AM  -  11:00 PM ,0:45:00
+2041,108,Gujarati Rasoi , Gujarati          ," 101 Ahmedabad Road, Ahmedabad",4.4, 10:00 AM  -  12:00 PM ,0:30:00
+2042,114, Awadhi Flavors       , Awadhi            ," 444 Awadhi Street, Lucknow ",2.5, 10:30 AM  -  11:00 PM ,0:45:00
+2043,111, Gurgaon Grill        , Barbecue          ," 123 Grill Lane, Gurugram   ",4.5, 10:00 PM  -  12:00 AM ,0:40:00
+2044,116, Goa Gastronomy       , Goan              ," 555 Goa Road, Goa         ",4.2, 11:00 AM  -  12:00 AM ,0:35:00
+2045,103, Flavors of Bangalore , South Indian      ," 789 South Lane, Bangalore  ",3.2, 10:30 AM  -  1:00 PM ,0:30:00
+2046,109, Rajasthani Delights  , Rajasthani        ," 222 Rajasthani Road, Jaipur ",4.3, 10:00 AM  -  12:00 PM ,0:40:00
+2047,105, Spice of Hyderabad   , Hyderabadi        ," 101 Hyderabad Road, Hyderabad",4.7, 10:30 AM  -  1:00 PM ,0:45:00
+2048,110, Chandigarh Street    , Street Food       ," 444 Street Lane, Chandigarh ",4, 10:00 PM  -  11:00 PM ,0:35:00
+2049,102, Mumbai Munch         , Fast Food         ," 555 Fast Street, Mumbai   ",4.2, 10:30 AM  -  12:30 PM ,0:30:00
+2050,120, Indore Spice         , Indori            ," 777 Indori Lane, Indore   ",4.6, 11:00 AM  -  11:00 PM ,0:40:00
+2051,112, Noida Nibbles        , Fast Food         ," 888 Fast Lane, Noida       ",4.5, 10:00 AM  -  12:00 PM ,0:45:00
+2052,108, Ahmedabad Delights   , Gujarati          ," 101 Ahmedabad Road, Ahmedabad",4.4, 10:30 AM  -  1:00 PM ,0:35:00
+2053,107, Pune Palate          , Maharashtrian      ," 222 Pune Lane, Pune        ",3.2, 10:00 PM  -  12:00 AM ,0:30:00
+2054,104, Kolkata Cravings     , Bengali            ," 789 Kolkata Road, Kolkata ",4.6, 10:30 AM  -  12:30 PM ,0:40:00
+2055,111, Gurgaon Grill        , Barbecue          ," 123 Grill Lane, Gurugram   ",4.5, 11:00 AM  -  11:00 PM ,0:35:00
+2056,116, Goa Gastronomy       , Goan              ," 555 Goa Road, Goa         ",2, 10:00 AM  -  12:00 PM ,0:30:00
+2057,113, Pune Platter         , Maharashtrian      ," 789 Pune Road, Pune        ",4.4, 10:30 AM  -  1:00 PM ,0:45:00
+2058,117, Amritsar Junction    , North Indian      ," 101 Jaipur Road, Jaipur   ",4.3, 10:00 PM  -  12:00 AM ,0:40:00
+2059,114, Lucknow Delicacies   , Awadhi            ," 444 Awadhi Street, Lucknow ",4.4, 10:30 AM  -  12:30 PM ,0:35:00
+2060,105, Spice of Hyderabad   , Hyderabadi        ," 101 Hyderabad Road, Hyderabad",4.7, 11:00 AM  -  11:00 PM ,0:30:00
+2061,109, Rajasthani Delights  , Rajasthani        ," 222 Rajasthani Road, Jaipur ",4.3, 10:00 AM  -  12:00 PM ,0:40:00
+2062,110, Chandigarh Street    , Street Food       ," 444 Street Lane, Chandigarh ",4.4, 10:30 AM  -  1:00 PM ,0:35:00
+2063,119,North Bites      , North Indian      ," 567 Bhopal Road, Bhopal   ",4.2, 10:00 PM  -  12:00 AM ,0:30:00
+2064,103, Flavors of Bangalore , South Indian      ," 789 South Lane, Bangalore  ",4.6, 10:30 AM  -  12:30 PM ,0:40:00
+2065,105, Spice of Hyderabad   , Hyderabadi        ," 101 Hyderabad Road, Hyderabad",4.7, 10:30 AM  -  1:00 PM ,0:45:00
+2066,118, Vadodara Delights    , Gujarati          ," 345 Vadodara Road, Vadodara",3, 10:00 AM  -  12:00 PM ,0:35:00
+2067,109, Rajasthani Delights  , Rajasthani        ," 222 Rajasthani Road, Jaipur ",4.3, 10:30 AM  -  1:00 PM ,0:45:00
+2068,107, Pune Palate          , Maharashtrian      ," 789 Pune Lane, Pune        ",4.4, 10:00 AM  -  12:00 PM ,0:40:00
+2069,104, Kolkata Cravings     , Bengali            ," 789 Kolkata Road, Kolkata ",4.6, 10:00 AM  -  12:00 PM ,0:30:00
+2070,111, Gurgaon Grill        , Barbecue          ," 123 Grill Lane, Gurugram   ",3.6, 10:30 AM  -  1:00 PM ,0:45:00
+2071,116, Goa Gastronomy       , Goan              ," 555 Goa Road, Goa         ",4.2, 10:00 AM  -  12:00 PM ,0:35:00
+2072,113, Pune Platter         , Maharashtrian      ," 789 Pune Road, Pune        ",4.4, 10:30 AM  -  1:00 PM ,0:40:00
+2073,119, Bhopal Bites         , North Indian      ," 567 Bhopal Road, Bhopal   ",4.2, 10:00 PM  -  12:00 AM ,0:30:00
+2074,103, Flavors of Bangalore , South Indian      ," 789 South Lane, Bangalore  ",4.6, 10:30 AM  -  12:30 PM ,0:40:00
+2075,110, Chandigarh Street    , Street Food       ," 444 Street Lane, Chandigarh ",4.4, 10:30 AM  -  1:00 PM ,0:35:00
+2076,105, Spice of Hyderabad   , Hyderabadi        ," 101 Hyderabad Road, Hyderabad",4.7, 10:30 AM  -  1:00 PM ,0:45:00
+2077,118, Vadodara Delights    , Gujarati          ," 345 Vadodara Road, Vadodara",4.3, 10:00 AM  -  12:00 PM ,0:35:00
+2078,109, Rajasthani Delights  , Rajasthani        ," 222 Rajasthani Road, Jaipur ",4.3, 10:30 AM  -  1:00 PM ,0:45:00
+2079,107, Pune Palate          , Maharashtrian      ," 789 Pune Lane, Pune        ",4.4, 10:00 AM  -  12:00 PM ,0:40:00
+2080,104, Kolkata Cravings     , Bengali            ," 789 Kolkata Road, Kolkata ",4.6, 10:00 AM  -  12:00 PM ,0:30:00
+2081,111, Gurgaon Grill        , Barbecue          ," 123 Grill Lane, Gurugram   ",4.5, 11:00 AM  -  11:00 PM ,0:35:00
+2082,116, Goa Gastronomy       , Goan              ," 555 Goa Road, Goa         ",4.2, 10:00 AM  -  12:00 PM ,0:30:00
+2083,113, Pune Platter         , Maharashtrian      ," 789 Pune Lane, Pune        ",4.4, 10:30 AM  -  1:00 PM ,0:40:00
+2084,119,Rasoi Raj      , North Indian      ," 567 Bhopal Road, Bhopal   ",3.3, 10:00 PM  -  12:00 AM ,0:30:00
+2085,103, Flavors of Bangalore , South Indian      ," 789 South Lane, Bangalore  ",4.6, 10:30 AM  -  12:30 PM ,0:40:00
+2086,109, Rajasthani Delights  , Rajasthani        ," 222 Rajasthani Road, Jaipur ",4.3, 10:00 AM  -  12:00 PM ,0:40:00
+2087,105, Spice of Hyderabad   , Hyderabadi        ," 101 Hyderabad Road, Hyderabad",4.2, 10:30 AM  -  1:00 PM ,0:45:00
+2088,110, Chandigarh Street    , Street Food       ," 444 Street Lane, Chandigarh ",4.4, 10:00 PM  -  11:00 PM ,0:35:00
+2089,102, Mumbai Munch         , Fast Food         ," 555 Fast Street, Mumbai   ",4.2, 10:30 AM  -  12:30 PM ,0:30:00
+2090,120, Indore Spice         , Indori            ," 777 Indori Lane, Indore   ",4.6, 11:00 AM  -  11:00 PM ,0:40:00
+2091,112, Noida Nibbles        , Fast Food         ," 888 Fast Lane, Noida       ",4.5, 10:00 AM  -  12:00 PM ,0:45:00
+2092,108, Ahmedabad Delights   , Gujarati          ," 101 Ahmedabad Road, Ahmedabad",3.5, 10:30 AM  -  1:00 PM ,0:35:00
+2093,107, Pune Palate          , Maharashtrian      ," 222 Pune Lane, Pune        ",4.4, 10:00 AM  -  12:00 PM ,0:40:00
+2094,104, Kolkata Cravings     , Bengali            ," 789 Kolkata Road, Kolkata ",4.6, 10:00 AM  -  12:00 PM ,0:30:00
+2095,111, Gurgaon Grill        , Barbecue          ," 123 Grill Lane, Gurugram   ",4.8, 11:00 AM  -  11:00 PM ,0:35:00
+2096,116, Goa Gastronomy       , Goan              ," 555 Goa Road, Goa         ",4.2, 10:00 AM  -  12:00 PM ,0:30:00
+2097,113, Pune Platter         , Maharashtrian      ," 789 Pune Lane, Pune        ",4.4, 10:30 AM  -  1:00 PM ,0:40:00
+2098,119,Nawabi Delights ,Mughlai," 567 Bhopal Road, Bhopal   ",2.8, 10:00 PM  -  12:00 AM ,0:30:00
+2099,103, Flavors of Bangalore , South Indian      ," 789 South Lane, Bangalore  ",4.6, 10:30 AM  -  12:30 PM ,0:40:00
+2100,109, Rajasthani Delights  , Rajasthani        ," 222 Rajasthani Road, Jaipur ",3.5, 10:00 AM  -  12:00 PM ,0:40:00
