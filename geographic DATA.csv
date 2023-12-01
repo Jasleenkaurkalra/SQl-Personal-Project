@@ -1,0 +1,31 @@
+city_id,city_name,state,country,latitude,longitude,delivery_zone
+101, New Delhi      , Delhi           , India   ,28.6139,77.209, Central Delhi  
+102, Mumbai         , Maharashtra     , India   ,19.076,72.8777, South Mumbai   
+103, Bangalore      , Karnataka       , India   ,12.9716,77.5946, Koramangala    
+104, Kolkata        , West Bengal     , India   ,22.5726,88.3639, Park Street    
+105, Hyderabad      , Telangana       , India   ,17.385,78.4867, Jubilee Hills  
+106, Chennai        , Tamil Nadu      , India   ,13.0827,80.2707, T. Nagar       
+107, Pune           , Maharashtra     , India   ,18.5204,73.8567, Koregaon Park  
+108, Ahmedabad      , Gujarat         , India   ,23.0225,72.5714, Vastrapur      
+109, Jaipur         , Rajasthan       , India   ,26.9124,75.7873, C-Scheme       
+110, Chandigarh     , Punjab          , India   ,30.7333,76.7794, Sector 17      
+111, Gurugram       , Haryana         , India   ,28.4595,77.0266, DLF Cyber City 
+112, Noida          , Uttar Pradesh   , India   ,28.5355,77.391, Sector 18      
+113,Nagpur           , Maharashtra     , India   ,18.5204,73.8567, Hinjewadi      
+114, Lucknow        , Uttar Pradesh   , India   ,26.8467,80.9462, Hazratganj    
+115, Kochi          , Kerala          , India   ,9.9312,76.2673, Fort Kochi     
+116, Goa            , Goa             , India   ,15.2993,74.124, Calangute      
+117, Amritsar       , Punjab          , India   ,26.9124,75.7873, Malviya Nagar  
+118, Coimbatore     , Tamil Nadu      , India   ,11.0168,76.9558, Gandhipuram   
+119, Bhopal         , Madhya Pradesh  , India   ,23.2599,77.4126, MP Nagar       
+120, Indore         , Madhya Pradesh  , India   ,22.7196,75.8577, Vijay Nagar    
+121, Visakhapatnam  , Andhra Pradesh  , India   ,17.6868,83.2185, Beach Road      
+122, Ahmednagar     , Maharashtra     , India   ,19.0946,74.7384, Station Road    
+123, Bhubaneswar    , Odisha          , India   ,20.2961,85.8245, Kharavel Nagar  
+124, Kanpur         , Uttar Pradesh   , India   ,26.4499,80.3319, Mall Road       
+125, Patna          , Bihar           , India   ,25.5941,85.1376, Gandhi Maidan   
+126, Surat          , Gujarat         , India   ,21.1702,72.8311, Adajan          
+127, Nagpur         , Maharashtra     , India   ,21.1458,79.0882, Sadar           
+128, Vadodara       , Gujarat         , India   ,22.3072,73.1812, Alkapuri        
+129, Ludhiana       , Punjab          , India   ,30.901,75.8573, Sarabha Nagar   
+130, Thiruvananthapuram , Kerala      , India   ,8.5241,76.9366, Kowdiar         
