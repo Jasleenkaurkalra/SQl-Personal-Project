@@ -1,0 +1,161 @@
+transaction_id,order_id,datetime      ,amount,method ,transaction_status
+5001,3001,9/28/2023 10:40,250, Credit Card    , Completed          
+5002,3002,9/26/2023 13:15,180.5, Paytm           , Completed          
+5003,3003,9/18/2023 13:45,320, Debit Card    , Completed          
+5004,3004,9/16/2023 19:40,105.75, PhonePe           , Completed          
+5005,3005,9/10/2023 20:45,190.25, Paytm    , Completed          
+5006,3006,9/9/2023 23:30,120, Cash          , Completed          
+5007,3007,8/25/2023 13:20,210.5, Paytm    , Completed          
+5008,3008,8/24/2023 14:30,155.75, Cash           , Completed          
+5009,3009,8/20/2023 19:15,280, PhonePe    , Completed          
+5010,3010,8/20/2023 21:00,180.25, Cash           , Completed          
+5011,3011,8/19/2023 23:00,220.5, Paytm    , Completed          
+5012,3012,8/15/2023 14:15,135.75, Cash           , Completed          
+5013,3013,8/8/2023 16:30,170, PhonePe    , Completed          
+5014,3014,8/5/2023 20:45,195.25, Cash           , Completed          
+5015,3015,7/26/2023 21:00,160.5, Paytm    , Completed          
+5016,3016,7/26/2023 14:30,210, Cash           , Completed          
+5017,3017,7/17/2023 13:35,145.75, Paytm    , Completed          
+5018,3018,6/23/2023 20:15,185.25, Cash           , Completed          
+5019,3019,6/20/2023 21:05,220.5, PhonePe    , Completed          
+5020,3020,6/14/2023 22:00,200, Cash           , Completed          
+5021,3021,6/9/2023 13:30,255, Paytm    , Completed          
+5022,3022,6/2/2023 12:15,190.5, Cash           , Completed          
+5023,3023,5/30/2023 13:45,330, Debit Card    , Completed          
+5024,3024,5/28/2023 19:00,110.75, Cash           , Completed          
+5025,3025,5/24/2023 20:45,185.25, Credit Card    , Completed          
+5026,3026,5/19/2023 23:30,128, Cash           , Completed          
+5027,3027,5/12/2023 13:00,205.5, Paytm    , Completed          
+5028,3028,5/6/2023 14:30,150.75, Cash           , Completed          
+5029,3029,5/1/2023 18:15,285, Paytm    , Completed          
+5030,3030,4/29/2023 21:00,175.25, Paytm           , Completed          
+5031,3031,4/26/2023 11:45,215.5, Paytm    , Completed          
+5032,3032,4/21/2023 14:15,130.75, Cash           , Completed          
+5033,3033,4/21/2023 20:30,160, Paytm    , Completed          
+5034,3034,4/19/2023 19:45,190.25, Cash           , Completed          
+5035,3035,4/13/2023 21:00,165.5, Debit Card    , Completed          
+5036,3036,3/31/2023 13:30,200, Cash           , Completed          
+5037,3037,3/17/2023 16:00,140.75, Paytm    , Completed          
+5038,3038,2/12/2023 20:15,180.25, Cash           , Completed          
+5039,3039,1/9/2023 14:30,225.5, Credit Card    , Completed          
+5040,3040,1/4/2023 12:05,205, Cash           , Completed          
+5041,3041,12/31/2022 21:30,260, PhonePe    , Completed          
+5042,3042,12/22/2022 12:15,195.5, Cash           , Completed          
+5043,3043,12/16/2022 13:45,340, Paytm    , Completed          
+5044,3044,11/28/2022 19:00,115.75, Cash           , Completed          
+5045,3045,11/22/2022 20:45,180.25, PhonePe    , Completed          
+5046,3046,11/14/2022 13:30,132, Cash           , Completed          
+5047,3047,11/3/2022 13:00,215.5, Paytm    , Completed          
+5048,3048,10/27/2022 14:30,160.75, Cash           , Completed          
+5049,3049,10/24/2022 18:15,290, PhonePe    , Completed          
+5050,3050,10/24/2022 21:00,170.25, Cash           , Completed          
+5051,3051,9/12/2022 23:45,210.5, PhonePe    , Completed          
+5052,3052,8/14/2022 14:15,135.75, Cash           , Completed          
+5053,3053,8/12/2022 16:30,165, PhonePe    , Completed          
+5054,3054,7/22/2022 19:45,195.25, Cash           , Completed          
+5055,3055,7/16/2022 22:00,170.5, PhonePe    , Completed          
+5056,3056,6/19/2022 13:30,205, Cash           , Completed          
+5057,3057,5/13/2022 16:00,138.75, Paytm    , Completed          
+5058,3058,4/7/2022 19:15,185.25, Cash           , Completed          
+5059,3059,3/9/2022 21:30,230.5, Credit Card    , Completed          
+5060,3060,12/30/2021 14:00,210, Cash           , Completed          
+5061,3061,12/17/2021 13:30,265, PhonePe    , Completed          
+5062,3062,11/18/2021 12:15,200.5, PhonePe           , Completed          
+5063,3063,11/14/2021 13:45,350, PhonePe    , Completed          
+5064,3064,11/14/2021 19:00,120.75, Cash           , Completed          
+5065,3065,10/30/2021 20:45,175.25, PhonePe    , Completed          
+5066,3066,10/24/2021 20:30,136, Cash           , Completed          
+5067,3067,10/15/2021 13:00,220.5, PhonePe    , Completed          
+5068,3068,10/15/2021 14:30,165.75, Cash           , Completed          
+5069,3069,10/13/2021 18:15,295, PhonePe    , Completed          
+5070,3070,10/5/2021 21:00,160.25, Cash           , Completed          
+5071,3071,9/15/2021 21:45,205.5, PhonePe    , Completed          
+5072,3072,9/16/2021 14:15,140.75, Cash           , Completed          
+5073,3073,8/22/2021 16:30,170, PhonePe    , Completed          
+5074,3074,8/20/2021 19:45,190.25, Cash           , Completed          
+5075,3075,7/16/2021 22:00,165.5, Debit Card    , Completed          
+5076,3076,6/17/2021 13:30,210, Cash           , Completed          
+5077,3077,5/18/2021 16:00,145.75, Debit Card    , Completed          
+5078,3078,5/11/2021 19:15,185.25, Cash           , Completed          
+5079,3079,5/11/2021 21:30,235.5, Debit Card    , Completed          
+5080,3080,5/9/2021 12:40,220, Cash           , Completed          
+5081,3081,4/21/2021 11:30,270, PhonePe    , Completed          
+5082,3082,4/21/2021 12:15,205.5, Cash           , Completed          
+5083,3083,4/18/2021 13:45,360, PhonePe    , Completed          
+5084,3084,4/18/2021 19:00,125.75, Cash           , Completed          
+5085,3085,4/18/2021 20:45,170.25, PhonePe    , Completed          
+5086,3086,4/16/2021 22:30,140, Cash           , Completed          
+5087,3087,3/29/2021 13:00,225.5, Paytm    , Completed          
+5088,3088,3/19/2021 14:30,175.75, Cash           , Completed          
+5089,3089,2/16/2021 19:15,300, PhonePe    , Completed          
+5090,3090,2/11/2021 21:00,155.25, Cash           , Completed          
+5091,3091,1/1/2021 13:45,200.5, Paytm    , Completed          
+5092,3092,12/31/2020 14:15,145.75, Cash           , Completed          
+5093,3093,12/30/2020 16:30,175, Debit Card    , Completed          
+5094,3094,12/30/2020 19:45,185.25, Cash           , Completed          
+5095,3095,12/28/2020 22:00,170.5, Credit Card    , Completed          
+5096,3096,11/21/2020 13:30,215, Cash           , Completed          
+5097,3097,10/11/2020 16:00,150.75, Credit Card    , Completed          
+5098,3098,9/15/2020 19:15,190.25, Cash           , Completed          
+5099,3099,8/21/2020 21:30,240.5, Paytm    , Completed          
+5100,3100,8/16/2020 13:45,225, Cash           , Completed          
+5101,3101,7/22/2020 10:30,275, Debit Card    , Completed          
+5102,3102,7/22/2020 12:15,210.5, Cash           , Completed          
+5103,3103,6/26/2020 13:45,370, Paytm    , Completed          
+5104,3104,6/22/2020 19:00,130.75, Cash           , Completed          
+5105,3105,6/21/2020 20:45,165.25, Debit Card    , Completed          
+5106,3106,5/4/2020 23:30,148, Paytm           , Completed          
+5107,3107,5/3/2020 13:00,230.5, Debit Card    , Completed          
+5108,3108,4/13/2020 14:30,180.75, Cash           , Completed          
+5109,3109,4/13/2020 18:15,305, Paytm    , Completed          
+5110,3110,4/6/2020 21:00,145.25, Cash           , Completed          
+5111,3111,3/23/2020 22:45,195.5, Credit Card    , Completed          
+5112,3112,2/24/2020 14:15,152.75, Cash           , Completed          
+5113,3113,2/24/2020 19:30,180, Paytm    , Completed          
+5114,3114,2/24/2020 19:45,200.25, Cash           , Completed          
+5115,3115,1/4/2020 21:38,175.5, Paytm    , Completed          
+5116,3116,12/25/2019 13:30,220, Cash           , Completed          
+5117,3117,12/25/2019 16:00,155.75, Credit Card    , Completed          
+5118,3118,12/20/2019 19:15,195.25, Cash           , Completed          
+5119,3119,12/5/2019 21:30,245.5, Credit Card    , Completed          
+5120,3120,11/26/2019 13:14,230, Cash           , Completed          
+5121,3121,11/26/2019 11:30,280, Credit Card    , Completed          
+5122,3122,10/26/2019 12:15,215.5, Cash           , Completed          
+5123,3123,10/26/2019 13:45,380, Debit Card    , Completed          
+5124,3124,10/26/2019 19:00,135.75, Cash           , Completed          
+5125,3125,9/26/2019 20:45,160.25, Paytm    , Completed          
+5126,3126,8/26/2019 21:38,156, Cash           , Completed          
+5127,3127,8/17/2019 13:05,235.5, Paytm    , Completed          
+5128,3128,7/27/2019 14:30,185.75, Cash           , Completed          
+5129,3129,7/27/2019 18:15,310, Paytm    , Completed          
+5130,3130,7/27/2019 21:00,160.25, Cash           , Completed          
+5131,3131,6/27/2019 21:45,205.5, Paytm    , Completed          
+5132,3132,6/28/2019 14:15,149.75, Paytm           , Completed          
+5133,3133,5/28/2019 16:30,170, Paytm    , Completed          
+5134,3134,5/28/2019 19:45,195.25, Cash           , Completed          
+5135,3135,4/28/2019 22:00,170.5, Paytm    , Completed          
+5136,3136,4/29/2019 13:30,215, Cash           , Completed          
+5137,3137,4/29/2019 16:00,155.75, Paytm    , Completed          
+5138,3138,3/22/2019 19:15,195.25, Cash           , Completed          
+5139,3139,2/9/2019 21:30,245.5, Debit Card    , Completed          
+5140,3140,1/9/2019 13:45,230, Cash           , Completed          
+5141,3141,1/5/2019 11:30,550, Paytm    , Completed          
+5142,3142,6/8/2018 13:15,620.5, Cash           , Completed          
+5143,3143,6/7/2018 13:45,510, Debit Card    , Completed          
+5144,3144,5/16/2018 19:15,580.75, Cash           , Completed          
+5145,3145,5/14/2018 20:45,520.25, Paytm    , Completed          
+5146,3146,4/30/2018 23:30,535, Cash           , Completed          
+5147,3147,4/12/2018 13:10,670.5, Credit Card    , Completed          
+5148,3148,4/9/2018 14:30,545.75, Cash           , Completed          
+5149,3149,3/10/2018 18:15,610, Paytm    , Completed          
+5150,3150,3/8/2018 21:00,505.25, Cash           , Completed          
+5151,3151,2/24/2018 13:45,590.5, Paytm    , Completed          
+5152,3152,2/12/2018 14:15,555.75, Cash           , Completed          
+5153,3153,2/12/2018 17:30,580, Debit Card    , Completed          
+5154,3154,2/8/2018 19:45,520.25, Cash           , Completed          
+5155,3155,1/13/2018 22:00,675.5, Paytm    , Completed          
+5156,3156,1/13/2018 13:30,590, Cash           , Completed          
+5157,3157,1/12/2018 16:00,555.75, Credit Card    , Completed          
+5158,3158,1/12/2018 19:15,620.25, Cash           , Completed          
+5159,3159,1/3/2018 20:30,535.5, Debit Card    , Completed          
+5160,3160,1/1/2018 12:30,510, Cash           , Completed          
